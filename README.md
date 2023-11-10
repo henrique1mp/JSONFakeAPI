@@ -1,3 +1,1 @@
-JSON Fake API by Henrique
-
-Everything was properly tested on **POSTMAN**
+New branch ReadME Update 
