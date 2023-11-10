@@ -1,3 +1,3 @@
 JSON Fake API by Henrique
 
-Everything was properly teste on **POSTMAN**
+Everything was properly tested on **POSTMAN**
